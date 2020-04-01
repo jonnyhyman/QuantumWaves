@@ -2,7 +2,7 @@
 
 A 3D surface-plot Schrodinger-equation quantum wave function visualization.
 
-[image]
+![Visualization](https://raw.githubusercontent.com/jonnyhyman/QuantumWaves/master/image.png?token=AFNMYTY5DJECHGDU2D4LWS26RYWX2)
 
 - Surface represents probability density function
 - Lines on the x and y axes represent real and imaginary waves.
